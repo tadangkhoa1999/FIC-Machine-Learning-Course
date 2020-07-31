@@ -13,3 +13,6 @@ Những nội dung cơ bản về Machine learning cho người mới bắt đ�
 | 8 | Gradient Descent Tips | - | - |
 | 9 | Neural Network | [View](https://github.com/tadangkhoa1999/FIC-Machine-Learning-Course/blob/master/slide_pdf/Neural%20Network.pdf) | - |
 | 10 | Convolutional neural networks | [View](https://github.com/tadangkhoa1999/FIC-Machine-Learning-Course/blob/master/slide_pdf/Convolutional%20neural%20networks.pdf) | - |
+## Đang xây dựng
+* Code demo sử dụng các thư viện phổ biến
+* Kiến thức NLP cơ bản
