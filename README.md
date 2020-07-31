@@ -1,7 +1,7 @@
 # FIC-Machine-Learning-Course
 Những nội dung cơ bản về Machine learning cho người mới bắt đầu. Tài liệu được tổng hợp từ nhiều nguồn và sử dụng nội bộ trong "FPT Innovation Club".
 ## Nội dung
-|  | **Lý thuyết** | **Slide** | **Code** |
+| **Khóa cơ bản** | **Lý thuyết** | **Slide** | **Code** |
 |:---:|:---|:---:|:---:|
 | 1 | Ôn tập kiến thức toán học | [View](https://github.com/tadangkhoa1999/FIC-Machine-Learning-Course/blob/master/slide_pdf/Math.pdf) | - |
 | 2 | Python cơ bản | [View](https://github.com/tadangkhoa1999/FIC-Machine-Learning-Course/blob/master/slide_pdf/Python.pdf) | [View](https://github.com/tadangkhoa1999/FIC-Machine-Learning-Course/tree/master/code/Python) |
